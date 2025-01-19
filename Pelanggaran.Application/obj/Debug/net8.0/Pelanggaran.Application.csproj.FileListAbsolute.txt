@@ -1,0 +1,15 @@
+A:\Bro\Project\Happy Coding\Projek Pelanggaran\Pelanggaran.Domain\Pelanggaran.Application\bin\Debug\net8.0\Pelanggaran.Application.deps.json
+A:\Bro\Project\Happy Coding\Projek Pelanggaran\Pelanggaran.Domain\Pelanggaran.Application\bin\Debug\net8.0\Pelanggaran.Application.dll
+A:\Bro\Project\Happy Coding\Projek Pelanggaran\Pelanggaran.Domain\Pelanggaran.Application\bin\Debug\net8.0\Pelanggaran.Application.pdb
+A:\Bro\Project\Happy Coding\Projek Pelanggaran\Pelanggaran.Domain\Pelanggaran.Application\bin\Debug\net8.0\Pelanggaran.Domain.dll
+A:\Bro\Project\Happy Coding\Projek Pelanggaran\Pelanggaran.Domain\Pelanggaran.Application\bin\Debug\net8.0\Pelanggaran.Domain.pdb
+A:\Bro\Project\Happy Coding\Projek Pelanggaran\Pelanggaran.Domain\Pelanggaran.Application\obj\Debug\net8.0\Pelanggaran.Application.csproj.AssemblyReference.cache
+A:\Bro\Project\Happy Coding\Projek Pelanggaran\Pelanggaran.Domain\Pelanggaran.Application\obj\Debug\net8.0\Pelanggaran.Application.GeneratedMSBuildEditorConfig.editorconfig
+A:\Bro\Project\Happy Coding\Projek Pelanggaran\Pelanggaran.Domain\Pelanggaran.Application\obj\Debug\net8.0\Pelanggaran.Application.AssemblyInfoInputs.cache
+A:\Bro\Project\Happy Coding\Projek Pelanggaran\Pelanggaran.Domain\Pelanggaran.Application\obj\Debug\net8.0\Pelanggaran.Application.AssemblyInfo.cs
+A:\Bro\Project\Happy Coding\Projek Pelanggaran\Pelanggaran.Domain\Pelanggaran.Application\obj\Debug\net8.0\Pelanggaran.Application.csproj.CoreCompileInputs.cache
+A:\Bro\Project\Happy Coding\Projek Pelanggaran\Pelanggaran.Domain\Pelanggaran.Application\obj\Debug\net8.0\Pelangga.3C533941.Up2Date
+A:\Bro\Project\Happy Coding\Projek Pelanggaran\Pelanggaran.Domain\Pelanggaran.Application\obj\Debug\net8.0\Pelanggaran.Application.dll
+A:\Bro\Project\Happy Coding\Projek Pelanggaran\Pelanggaran.Domain\Pelanggaran.Application\obj\Debug\net8.0\refint\Pelanggaran.Application.dll
+A:\Bro\Project\Happy Coding\Projek Pelanggaran\Pelanggaran.Domain\Pelanggaran.Application\obj\Debug\net8.0\Pelanggaran.Application.pdb
+A:\Bro\Project\Happy Coding\Projek Pelanggaran\Pelanggaran.Domain\Pelanggaran.Application\obj\Debug\net8.0\ref\Pelanggaran.Application.dll

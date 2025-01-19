@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Pelanggaran.Domain;
+
+namespace Pelanggaran.Application
+{
+    public interface IPeraturanService
+    {
+        List<Peraturan> GetAllPeraturan();
+        Peraturan GetPeraturanById(int id);
+        Peraturan CreatePeraturan(Pelanggaran.Domain.Peraturan peraturan);
+        Peraturan UpdatePeraturan(int id, Pelanggaran.Domain.Peraturan peraturan);
+        void DeletePeraturan(int id);
+    }
+}

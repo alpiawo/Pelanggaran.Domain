@@ -1,0 +1,11 @@
+A:\Bro\Project\Happy Coding\Projek Pelanggaran\Pelanggaran.Domain\Pelanggaran.Domain\bin\Debug\net8.0\Pelanggaran.Domain.deps.json
+A:\Bro\Project\Happy Coding\Projek Pelanggaran\Pelanggaran.Domain\Pelanggaran.Domain\bin\Debug\net8.0\Pelanggaran.Domain.dll
+A:\Bro\Project\Happy Coding\Projek Pelanggaran\Pelanggaran.Domain\Pelanggaran.Domain\bin\Debug\net8.0\Pelanggaran.Domain.pdb
+A:\Bro\Project\Happy Coding\Projek Pelanggaran\Pelanggaran.Domain\Pelanggaran.Domain\obj\Debug\net8.0\Pelanggaran.Domain.GeneratedMSBuildEditorConfig.editorconfig
+A:\Bro\Project\Happy Coding\Projek Pelanggaran\Pelanggaran.Domain\Pelanggaran.Domain\obj\Debug\net8.0\Pelanggaran.Domain.AssemblyInfoInputs.cache
+A:\Bro\Project\Happy Coding\Projek Pelanggaran\Pelanggaran.Domain\Pelanggaran.Domain\obj\Debug\net8.0\Pelanggaran.Domain.AssemblyInfo.cs
+A:\Bro\Project\Happy Coding\Projek Pelanggaran\Pelanggaran.Domain\Pelanggaran.Domain\obj\Debug\net8.0\Pelanggaran.Domain.csproj.CoreCompileInputs.cache
+A:\Bro\Project\Happy Coding\Projek Pelanggaran\Pelanggaran.Domain\Pelanggaran.Domain\obj\Debug\net8.0\Pelanggaran.Domain.dll
+A:\Bro\Project\Happy Coding\Projek Pelanggaran\Pelanggaran.Domain\Pelanggaran.Domain\obj\Debug\net8.0\refint\Pelanggaran.Domain.dll
+A:\Bro\Project\Happy Coding\Projek Pelanggaran\Pelanggaran.Domain\Pelanggaran.Domain\obj\Debug\net8.0\Pelanggaran.Domain.pdb
+A:\Bro\Project\Happy Coding\Projek Pelanggaran\Pelanggaran.Domain\Pelanggaran.Domain\obj\Debug\net8.0\ref\Pelanggaran.Domain.dll

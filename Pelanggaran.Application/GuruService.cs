@@ -46,7 +46,6 @@ namespace Pelanggaran.Application
             exGuru.Nama = guru.Nama;
             exGuru.Alamat = guru.Alamat;
             exGuru.Telp = guru.Telp;
-
             _GuruRepository.UpdateGuru(exGuru);
             return exGuru;
         }

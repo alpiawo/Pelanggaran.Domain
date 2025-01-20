@@ -15,6 +15,7 @@ namespace Pelanggaran.Infrastructure
         public DbSet<Peraturan> Peraturan { get; set; }
         public DbSet<Guru> guru { get; set; }
         public DbSet<Siswa> Siswa { get; set; } 
+        public DbSet<User> User { get; set; }
 
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 

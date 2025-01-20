@@ -38,6 +38,10 @@ builder.Services.AddScoped<IGuruService, GuruService>();
 builder.Services.AddScoped<ISiswaRepository, SiswaRepository>();
 builder.Services.AddScoped<ISiswaService, SiswaService>();
 
+//User
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<IUserService, UserService>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -52,5 +56,11 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.UseCors(options => options
+    .WithOrigins("http://localhost:3000")
+    .AllowAnyHeader()
+    .AllowAnyMethod()
+    );
 
 app.Run();
